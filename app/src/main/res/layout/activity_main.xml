@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="141dp"
         android:layout_height="48dp"
-        android:text="NMedia!"
+        android:text="@string/startPhrase"
         android:textAlignment="center"
         android:textSize="20sp"
         android:textStyle="bold"
